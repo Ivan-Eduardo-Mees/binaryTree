@@ -106,7 +106,6 @@ public class arv {
 //		a.insereEsquerda('e', a.getRaiz().getDir().getDir());
 //		a.insereDireita('f', a.getRaiz().getDir().getDir());
 		
-			//Ex da pag 25 do pdf Árvore - Introdução
 		a.insereRaiz('-');
 		a.insereEsquerda('/', a.getRaiz());
 		a.insereEsquerda('x', a.getRaiz().getEsq());
